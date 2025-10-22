@@ -1,0 +1,1 @@
+This website is about my own experience using Pure Data, and the goal is to for people to get to know it and to have a place to start at when using. I tried to consolidate all the educational materials I could think of on the "Resources" page, and small portfolio on the "Gallery" page. 
